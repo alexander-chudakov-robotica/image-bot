@@ -143,4 +143,4 @@ class FakeMessage:
 
 handler3(FakeMessage)
 
-# bot.infinity_polling()
+bot.infinity_polling()
